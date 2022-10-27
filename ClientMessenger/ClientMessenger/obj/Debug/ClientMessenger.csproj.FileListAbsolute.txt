@@ -1,0 +1,8 @@
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\bin\Debug\ClientMessenger.exe.config
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\bin\Debug\ClientMessenger.exe
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\bin\Debug\ClientMessenger.pdb
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\obj\Debug\ClientMessenger.csproj.AssemblyReference.cache
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\obj\Debug\ClientMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\obj\Debug\ClientMessenger.csproj.CoreCompileInputs.cache
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\obj\Debug\ClientMessenger.exe
+C:\Users\72vla\source\repos\ClientMessenger\ClientMessenger\obj\Debug\ClientMessenger.pdb
